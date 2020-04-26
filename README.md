@@ -1,3 +1,3 @@
 # hci
 
-database connection file -> "Database connection file are placed in "hci/EventManagment/EventManagment/src".
+database connection file ->  "hci/EventManagment/EventManagment/src".
